@@ -4,6 +4,10 @@ An implementation of a cut-down [Countdown Problem](https://wiki.haskell.org/Has
 
 It only uses add and multiply.
 
+The spec was given as an assignment in the UCT functional programming module.
+
+Mark: 100%
+
 #### Just some notes on the modules:
 
 Each question is exported as QuestionX. 
